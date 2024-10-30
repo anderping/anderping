@@ -1,7 +1,7 @@
 # Hi there, my name is Ander 👋
 ### Data Analyst | Data Scientist | Mechanical Design and Electrical Engineer
 
-![https://github.com/anderping](./anderping_github_profile.png)
+![https://github.com/anderping](./anderping_github_profile.jpg)
 
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fander-p-336543162%2F%3Flocale%3Den_US%26trk%3Dopento_sprofile_details)
 
