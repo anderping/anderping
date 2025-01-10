@@ -10,6 +10,6 @@ I consider myself curious and hard-working, so I continuously seek to expand my 
 
 Feel free to explore some notebooks I have created solving real ML problems!
 
-Also, check my last app "Application Filler" (work in progress), where I combine LLM, web scraping and SQL databases:
+Also, check out my last app "Application Filler" (work in progress), where I combine LLM, web scraping and SQL databases:
 
 https://github.com/anderping/Application-Filler
