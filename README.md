@@ -9,7 +9,3 @@ I am an industrial technology engineer with a MS in Space Technology and coding 
 I consider myself curious and hard-working, so I continuously seek to expand my knowledge and skills for my professional development, hence I studied Python, specifically data analysis and data science (also in R), as well as data bases (SQL), being now capable of applying Machine Learning algorithms for data prediction (including the use of frameworks such as Tensorflow to apply Neural Networks) and with knowledge in platforms such as MLFlow, JupyterLab, Vertex AI and AWS.
 
 Feel free to explore some notebooks I have created solving real ML problems!
-
-Also, check out my last app "Application Filler" (work in progress), where I combine LLM, web scraping and SQL databases:
-
-https://github.com/anderping/Application-Filler
