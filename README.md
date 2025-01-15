@@ -3,13 +3,13 @@
 
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fander-p-336543162)
 
-Feel free to explore some notebooks I have created solving real ML problems!
+Feel free to explore some notebooks I have created solving real __ML problems__!
 
 [Mental Health](https://github.com/anderping/Mental-Health)
 <br>
 [Loan Approval Prediction](https://github.com/anderping/Loan-Approval-Prediction)
 
-Also, check out my last app "Application Filler" (work in progress), where I combine LLM, web scraping and SQL databases:
+Also, check out my last app __"Application Filler"__ (work in progress), where I combine LLM, web scraping and SQL databases:
 
 [Application Filler](https://github.com/anderping/Application-Filler)
 <br>
