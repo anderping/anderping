@@ -11,7 +11,7 @@ Feel free to explore some notebooks I have created solving real ML problems!
 
 Also, check out my last app "Application Filler" (work in progress), where I combine LLM, web scraping and SQL databases:
 
-[See the repository](https://github.com/anderping/Application-Filler)
+[Application Filler](https://github.com/anderping/Application-Filler)
 <br>
 <br>
 <br>
