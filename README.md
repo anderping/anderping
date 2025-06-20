@@ -3,13 +3,15 @@
 
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fander-p-336543162)
 
-Feel free to explore some notebooks I have created solving real __ML problems__!
+Feel free to explore some real __ML problems__ I have solved!
 
-[Mental Health](https://github.com/anderping/Mental-Health)
+[Flask API Integration for Terra](https://github.com/anderping/Flask-API-Integration-for-Terra)
 <br>
-[Loan Approval Prediction](https://github.com/anderping/Loan-Approval-Prediction)
+[Kickstarter Success Predictor](https://github.com/anderping/Kickstarter-ML)
+<br>
+[Spotify EDA](https://github.com/anderping/Spotify-EDA)
 
-Also, check out my last app __"Application Filler"__ (work in progress), where I combine LLM, web scraping and SQL databases:
+Also, check out my app __"Application Filler"__ (work in progress), where I combine LLM, web scraping and SQL databases:
 
 [Application Filler](https://github.com/anderping/Application-Filler)
 <br>
@@ -17,10 +19,10 @@ Also, check out my last app __"Application Filler"__ (work in progress), where I
 <br>
 __About me__:
 
-*I am an Industrial Technology Engineer with an MS in Space Science and Technology, on which I have built my knowledge and experience in programming applied to data science and AI.*
+*Hi!* 
 
-*It was in my last work experience at Koalition that I was able to collaborate in the development of AI software applications. My role encompassed supporting the creation of ML models for data analysis and contributing to the integration of APIs for AI-based applications using NLP tools.*
+*I am an industrial Technology Engineer with an MSc in Space Science and Technology. I have built on this qualification to develop my knowledge and experience of programming for Data Science and AI.*
 
-*This role is based on my studies in programming and passion for technology. After working both in the space and electricity industries I decided to study Python, specifically data analysis and data science (also in R), as well as data bases (SQL), being now capable of applying Machine Learning algorithms for data prediction (including the use of frameworks such as Tensorflow to apply Neural Networks) and with knowledge in platforms such as MLFlow, JupyterLab and Vertex AI), besides being able to work in team projects with the use of GIT and GitHub.*
+*During my last work placement at Koalition, I collaborated on the development of AI software applications. My role involved supporting the creation of Machine Learning (ML) models for data analysis, and contributing to the integration of APIs for applications based on the use of locally deployed Natural Language Processing (NLP) tools (Ollama and Langchain).*
 
-*Before that I worked as a mechanism design engineer in the space industry and afterwards I was offered an opportunity to work in the electrical industry at the multinational Iberdrola, and was later moved to Scotland to work at the Protections and Control team. I consider myself curious and hard-working, so I continuously seek to expand my knowledge and skills for my professional development.*
+*Having worked in the space and electrical industries, I decided to spend some time studying Python, with a focus on analytics and data science (as well as R), and databases (SQL and MongoDB). I furthered my learning at the BBK Data Science Bootcamp, in collaboration with The Bridge. I am now able to apply machine learning (ML) algorithms for data prediction, including the use of frameworks such as TensorFlow for neural networks, and I have knowledge of platforms such as Amazon Web Services (AWS), Oracle, MLFlow, JupyterLab and Vertex AI. I can also work on team projects using Git, GitHub and Docker, and make deployments with Flask.*
